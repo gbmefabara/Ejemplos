@@ -13,3 +13,5 @@ en la hoja motores.py este codigo dice que el carro debe avanzar durante 2 segun
 en la hoja olde.py El código inicializa la pantalla OLED por I2C y muestra dos líneas de texto en ella.
 
 en la hoja rgbneopixel.py El código configura una tira de 3 NeoPixels y enciende cada uno con un color.
+
+los códigos hacen varias funciones para controlar distintos dispositivos conectados a un microcontrolador: lee continuamente un potenciómetro, enciende LEDs de forma secuencial, controla motores mediante funciones para mover un carrito en distintas direcciones, muestra texto en una pantalla OLED y configura un conjunto de luces Neopixel con diferentes colores. En conjunto, el programa demuestra el uso básico de entradas analógicas, salidas digitales, comunicación I2C y control de LEDs RGB.
